@@ -10,8 +10,9 @@ This project builds a Convolutional Neural Network (CNN) using PyTorch to classi
 ## 📎 File
 - `cnn_cifar10_colab.ipynb`: Full project notebook, runnable in Colab
 
-## 🚀 Open in Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([YOUR_COLAB_LINK_HERE](https://colab.research.google.com/drive/1TEgZX9j2HYJDH9s_1Hn1F9JgoYqGDKqp?usp=sharing))
+## 🚀 Open in Google Colab 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TEgZX9j2HYJDH9s_1Hn1F9JgoYqGDKqp?usp=sharing)
+
 
 ## 🧠 Concepts Practiced
 - Deep learning pipeline
